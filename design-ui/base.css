@@ -1,0 +1,73 @@
+/* System */
+
+:root{
+    --gray100: #FDFDFD;
+    --gray200: #EDEDED;
+    --gray300: #E0E0E0;
+    --gray400: #C2C2C2;
+    --gray500: #9E9E9E; 
+    --gray600: #757575;
+    --gray700: #616161;
+    --gray800: #424242;
+}
+
+.circle-8px{
+    width: 8px;
+    height: 8px;
+    border-radius: 100px;
+    background-color: black;
+}
+
+
+/* Text */
+.text--medium{
+    font-size: 1rem;
+    line-height: 150%;
+    display: inline-block;
+}
+
+.h4__pc{
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 700;
+}
+
+.h2__pc{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.h3__pc{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.text--italic{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+
+/* BUTTON */
+.button__icon{
+    padding: 16px;
+}
+
+.button__medium{
+    padding: 8px 16px;
+    display: inline-block;
+}
+
+.button--stroke{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.author__inf-name-sub{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}
